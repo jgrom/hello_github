@@ -1,24 +1,27 @@
-Étapes pour créer un nouveau commit :
+##Étapes pour créer un nouveau commit :##
 
 1. Proposer les changements :
 
-   git add <filename>
-   git add *
+   `git add <filename>`
+
+   ou
+
+   `git add *`
 
 2. Valider les changements :
 
-   git commit -m "Message de validation"
+   `git commit -m "Message de validation"`
 
 3. Envoyer les changements :
 
-   git push origin master
+   `git push -u origin master`
 
 
-=-=-= MOZZI =-=-=
+##=-=-= MOZZI =-=-=##
 
 Voici un lien vers une ressource git
 qui a l'air très intéressante,
-au moins pour éloigner les moustiques :
+surtout pour éloigner les moustiques :
 
 url: https://github.com/sensorium/Mozzi
 
