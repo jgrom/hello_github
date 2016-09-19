@@ -21,7 +21,7 @@
 
 Voici un lien vers une ressource git
 qui a l'air très intéressante,
-au moins pour éloigner les moustiques :
+surtout pour éloigner les moustiques :
 
 url: https://github.com/sensorium/Mozzi
 
